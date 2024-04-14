@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phin": "^3.5.0",
+    "phin": "^3.7.1",
     "querystring": "^0.2.0"
   }
 }
